@@ -125,21 +125,4 @@ a {
 
 #contact-form button {
   padding: 10px 20px;
-  background-color: #ff6f61;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-#contact-form button:hover {
-  background-color: #ff4a3d;
-}
-
-/* Footer */
-footer {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 20px;
-}
+  
