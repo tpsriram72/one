@@ -72,13 +72,13 @@ a {
 }
 
 .card img {
-  width: 100%;
-  height: 200px;
+  width: abc;
+  height: abcpx;
   object-fit: cover;
 }
 
 .card h3 {
-  margin: 15px 0;
+  margin: xxpx 0;
 }
 
 .card p {
